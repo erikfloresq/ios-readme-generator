@@ -5,13 +5,13 @@ It's a package for create the README of my iOS projects :D
 ## Install
 
 ```
-yarn global add readme-generator-ios
+yarn global add ios-readme-generator
 ```
 
 ## Use
 
 ```
-readme-generator-ios
+ios-readme-generator
 ```
 
 ## Options
@@ -29,7 +29,7 @@ readme-generator-ios
 ## Use with options
 
 ```
-readme-generator-ios -n "Orbis Mobile" -i "pe.com.orbis.OrbisMobile" -a "1.0.0" -b "1" -l "Swift" -d "iOS 9" -f "README.md"
+ios-readme-generator -n "Orbis Mobile" -i "pe.com.orbis.OrbisMobile" -a "1.0.0" -b "1" -l "Swift" -d "iOS 9" -f "README.md"
 ```
 
 ## Generation example
