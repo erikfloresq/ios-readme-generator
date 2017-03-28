@@ -1,0 +1,30 @@
+{
+  "name": "ios-readme-generator",
+  "description": "Generate README for my own iOS projects",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/erikfloresq/ios-readme-generator.git",
+  "author": {
+    "name": "Erik Flores",
+    "email": "erikfloresq@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/erikfloresq/readme-generator-ios"
+  },
+  "bugs": {
+    "url": "https://github.com/erikfloresq/ios-readme-generator/issues"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "format": "^0.2.2"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "ios-readme-generator": "ios-readme-generator.js"
+  },
+  "keywords": [
+    "ios, readme, generator"
+  ]
+}
